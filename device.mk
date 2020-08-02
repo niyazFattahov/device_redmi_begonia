@@ -55,7 +55,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 # Custom APNs
 PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/configs/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml
+    $(LOCAL_PATH)/configs/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml
 
 # Configstore
 PRODUCT_PACKAGES += \

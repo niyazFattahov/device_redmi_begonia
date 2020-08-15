@@ -1,11 +1,25 @@
 [
   {
-    "repository" : "AgentFabulous/begonia",
-    "target_path": "kernel/xiaomi/mt6785",
-    "branch" : "android-10.0"
+    "repository" :  "vendor_xiaomi_begonia",
+    "target_path":  "vendor/xiaomi/begonia",
+    "branch"     :  "10"
   },
   {
-    "repository" : "vendor_redmi_begonia",
-    "target_path": "vendor/redmi/begonia"
+    "repository" : "aashil123/kernel_xiaomi_begonia",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch"     : "android-10.0",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "PixelExperience/device_mediatek_sepolicy",
+    "target_path": "device/mediatek/sepolicy",
+    "branch"     : "ten",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "PixelExperience/packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch"     : "ten",
+    "remote"     : "gitlab"
   }
 ]

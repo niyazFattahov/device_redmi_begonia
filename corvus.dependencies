@@ -1,7 +1,7 @@
 [
   {
-    "repository" :  "vendor_xiaomi_begonia",
-    "target_path":  "vendor/xiaomi/begonia",
+    "repository" :  "vendor_redmi_begonia",
+    "target_path":  "vendor/redmi/begonia",
     "branch"     :  "10"
   },
   {

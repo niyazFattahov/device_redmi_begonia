@@ -12,6 +12,9 @@ PRODUCT_PACKAGES += \
     audio.a2dp.default \
     tinymix
 
+# APN
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/apns/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml
 # Camera2
 PRODUCT_PACKAGES += \
     Camera2

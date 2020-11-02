@@ -1,0 +1,13 @@
+[
+  {
+    "repository" :  "vendor_redmi_begonia",
+    "target_path":  "vendor/redmi/begonia",
+    "branch"     :  "11"
+  },
+  {
+    "repository" : "aashil123/kernel_xiaomi_begonia",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch"     : "android-10.0",
+    "remote"     : "github"
+  }, 
+]

@@ -9,5 +9,5 @@
     "target_path": "kernel/xiaomi/mt6785",
     "branch"     : "android-10.0",
     "remote"     : "github"
-  }, 
+  }
 ]
